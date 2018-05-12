@@ -1,0 +1,28 @@
+_repo: Letters-to-Helen--Impressions-of-an-Artist-on-the-Western-Front_16626
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henderson, Keith
+    birthdate: 1883
+    deathdate: 1982
+    gutenberg_agent_id: '6832'
+    url: http://www.gutenberg.org/2009/agents/6832
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16626'
+  lccn: '18020397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+- !lcc 'D501'
+title: 'Letters to Helen: Impressions of an Artist on the Western Front'
+url: http://www.gutenberg.org/ebooks/16626
